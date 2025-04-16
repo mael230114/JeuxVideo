@@ -195,3 +195,24 @@ footer {
               color: rgb(255,0,127);
           }
   }
+
+
+
+@media screen and (max-width: 992px) {
+    h1 {
+        font-size: 1.1em;
+    }
+    a {
+        font-size: small;
+    }
+    p {
+        font-size: smaller;
+    }
+    h3 {
+        font-size: 0.9em;
+    }
+    table, td, th {
+        font-size: smaller;
+    }
+}
+
